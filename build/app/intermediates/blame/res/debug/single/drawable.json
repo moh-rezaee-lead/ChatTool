@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/folder_placeholder.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/27f7706542faed53b392bcd54f97c02f22bf8bdd/output/res/drawable/folder_placeholder.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/image_placeholder.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/27f7706542faed53b392bcd54f97c02f22bf8bdd/output/res/drawable/image_placeholder.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/drawable/abc_item_background_holo_light.xml"
+    }
+]

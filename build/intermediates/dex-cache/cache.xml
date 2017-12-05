@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/6d30f0a448eb26cf8137ed6872b876fb857898c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_d0e97e6a9cb67f4db0cf8dba5923b6b29958a76e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/a5727ad49d462a71e09845a0a505851dc7f12fb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_a68c74b479bd8f4e9eace881a698d6d786d71f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/e45c8e2063b72fa12dfdc6089a4bc689b29b171f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_a6604263de6115fad175c1877ee1fff0f9e8ae2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/ac812ed34f928e958fcc5ff196c6eaf411994fef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_66ebfc584d99a5ded2af7a4062fcc75ee17638ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/c296853a5a52bceeff666f6609006ab67fa92263/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_d67a45d6f1ab3917dde18e42dc1e3bc23a02afc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/6513deb9782280cca099270b8ab3ee2f6fa31541/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_437d8c94dc51711e8412b01937180423cac2bca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/support-annotations-25.4.0_7beb3bafa83176cf38788fca40d54d148a3a4b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/41691d823229e797c3b31a5d10b18cadc99c516c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_2def446bd6665784b3f16f4f775eff9513212b4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.pub-cache/hosted/pub.dartlang.org/google_sign_in-0.3.1/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0407f7399bcd395ccd853ad262ae6d6149eb19bc">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_15597f758df42893c48f99ea2ee9202ec4c16bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/209bfd7cd7c60ff1e8527e7b9ea927602e487a6f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_7296dac0abb95fb76077249a344a1aae6837c4ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="89507701249388e1ed5ddcf8c41f4ce1be7831ef">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/guava-20.0_74ddbc02688189c8bdc0393dda83bf92ccb98c4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_7c34067696f46a537daea281b18742491136435f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/42bb997354d4722cfaf984d488aa9d976b2c4093/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_b55bc6dd3228810d1a2438e5c2632ba93ddecfbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/72dec822d63d297d30853023ee9352a4a628f81f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_8aacf8a797981acdee4c6974d990e6df5637ad18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/7aa6fb1b182324ece02d9ebb31ffd8d168a8911e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_ffb4c1c60fca0047f5d80643a7204a597e779c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/e744077a7e8fdabf2582a61a96cc2f8f3b2c1f8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_c36d4755e87afd3f02e0978ac6e2a199841d21c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/27f7706542faed53b392bcd54f97c02f22bf8bdd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c1afc13c5d091a503f1430b91eac3470e7bec2c8">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_34485ef36b7a3dce348dee896db4c078572aec65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/dddbc1f5046ea716ae09204b8f834dd17b014a64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_8ebb1f9a35bbc3d873ae8c47af678ba6f01d2242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/dc1f9b631d1110bd7f1dda080ff9dbf0d832332e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_dfe02e42ca8268fea2976e822efa2069eb6d95ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.0.5/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a0c3e5d89d98bec4bb8dc1da42ecc2e29e441fd8">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_5903e0342006e4d86a198e494c94ee7a4492af39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/85e00a9223ec6daa9c0e4269f50be8a99f7217d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_f56c1aad8611a1c8b9756c474d226f423442973e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.2.0/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="39917d4655ff65e85b0a15793cb16cbcc39de55d">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_32bc9d6521d1a7d4f7f07ab000a00d75fbc468be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/Projects/test/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b2ccdf6a3f28c165e1c4c914b8b3fff0d2bf8f45">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/flutter_c85b325032b23a1dc49ad19e9feb627e0874ccec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/b6b67b7368930803be76becca5437d73b262c2fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_9aaf2647deb8230fae9872ce2e134b24d8ddbcbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.pub-cache/hosted/pub.dartlang.org/firebase_database-0.0.12/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="50d21401501f90efee66bcf7db4dd25187626bb5">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_3ea401a76a61abcebc83deffad041ef099cd3d7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/glide-3.7.0_df45dbdb9f90ffdf5aeea2af3170801fc73174da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/5ff94710ececdeaa314261a836c2ae313bebb486/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_7561d6e367384fa51ac7fee8b2272bb5a542b7aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/d092aacee8f29d7c4e4c4731557161bfcafa871a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_d72e6efb2f710a7b2cd883112468b7b3e6f4c425.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/e8679e70a5710b7515142a027db05bc186fcb693/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_8388423b5ee06a2d40414c5550f67aecc9299568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-0.0.4/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="824a696f17749f4448f7c1343da022f9a46fa847">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_240ad02d459fe92462511c59aa3db9baa76196f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/10f5dcba15f16023c36d073e8d38714c5f2cde60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_d0c1994526510cb44e45bde249d9c3e150b9b37f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/6bc11f41529acd08f3a51c223e91584a54af5962/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_84729115b05e0f9fdca8c64d4ddcbf97bf3cd3e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/d80eb1138f4c1ad892be8aa5c81ea387facc134f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_b5dafa53aeaec65d9b1bf2d460b39dd89f5db5a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.pub-cache/hosted/pub.dartlang.org/image_picker-0.1.1/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1e5c17d69fe90fc274e53930ac7dbdb274af1aa9">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_93ebcc3f245d78a8bf7f88292a863b3b759bd594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/moh.rezaee/.android/build-cache/b651278dade3f2c2d00bd74d97178c1b73a67315/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/pre-dexed/debug/classes_faf96054bb00a9a959e248676710ca9790696edd.jar" />
+    </item>
+
+</items>

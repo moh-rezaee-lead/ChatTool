@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

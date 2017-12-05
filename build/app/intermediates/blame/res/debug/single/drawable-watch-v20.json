@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/e45c8e2063b72fa12dfdc6089a4bc689b29b171f/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/e45c8e2063b72fa12dfdc6089a4bc689b29b171f/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/e45c8e2063b72fa12dfdc6089a4bc689b29b171f/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

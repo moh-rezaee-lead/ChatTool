@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

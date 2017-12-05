@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/moh.rezaee/Projects/test/friendlychat-steps/full_steps/step_6_image_support/build/app/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/moh.rezaee/.android/build-cache/fe7f62540ed7cbf3c764f287767507bf45cdc854/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
